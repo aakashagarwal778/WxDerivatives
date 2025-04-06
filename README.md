@@ -1,4 +1,4 @@
 # WxDerivatives - Weather Derivatives
 
-Introduction to Temperature Options
-Statistical Analysis
+1. Introduction to Temperature Options
+2. Statistical Analysis
